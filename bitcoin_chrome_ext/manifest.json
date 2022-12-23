@@ -1,0 +1,11 @@
+{
+    "name": "bitcoin2",
+    "version": "1.0.0",
+    "description": "the current price of bitcoin",
+    "manifest_version": 3,
+    "author": "w0rdsandstuff",
+    "action": {
+        "default_popup": "index.html",
+        "defaul_title": "bitcoin2"
+    }
+}
